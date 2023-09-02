@@ -1,0 +1,54 @@
+#root {
+
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: center;
+}
+
+/* .container{
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.navBar{
+  background-color: #4D0C12;
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+
+}
+
+.navBar ul{
+margin: 0;
+padding: 0;
+list-style: none;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+
+}
+
+.navBar li{
+  display: inline;
+  
+}
+
+
+.logo{
+  height: 50px;
+
+}
+
+
+.btn1{
+  background-color: black;
+} */
+
+
+.navbar{
+  height: 70px;
+  background-color: red;
+}
